@@ -1,0 +1,4 @@
+site_name: DRY elements
+site_url: https://mydomain.org/dry-elements
+theme:
+  name: material
